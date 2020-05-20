@@ -13,15 +13,21 @@
   /* Header area */
   .header {
     margin: 0;
-    padding: 30px;
+    padding: 50px;
     text-align: center;
-    /* background-image: url("ferns_background.jpg"); */
-    /*background: rgb(75, 160, 90) */
+    background: white;
+    background-image: url("animals_background.jpg");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: bottom;
+
+
   }
   
   .header h1.logo {
     font-size: 50px;
-    color: white;
+    color: black;
+    margin-bottom: 60px;
   }
   
   
